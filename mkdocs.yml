@@ -1,0 +1,9 @@
+site_name: Sample Product Docs
+theme:
+  name: readthedocs
+nav:
+  - Home: index.md
+  - Getting Started: getting-started.md
+  - Workflow Automation Guide: workflow-automation-guide.md
+  - PostgreSQL Quickstart: postgresql-quickstart.md
+  - Healthcare Workflow Guide: healthcare-workflow-guide.md
